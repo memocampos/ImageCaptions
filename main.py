@@ -56,6 +56,6 @@ def image_caption_generator(image_path):
 
 
 if __name__ == '__main__':
-    print("HELLO WORLD")
+
     text=image_caption_generator("./example3.jpeg")
     print(text)
